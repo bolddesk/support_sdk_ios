@@ -29,3 +29,6 @@ The SDK is lightweight, supports theming to match your app’s branding, and gua
 | iOS          | 14.0+              | Swift UI   | 5.3                      |
 
 To set up the SDK in BoldDesk, learn more on [How to Configure Mobile SDK in BoldDesk](https://support.bolddesk.com/kb/article/21786)
+
+## License
+The BoldDesk Support SDK is protected by copyright. See [LICENSE](https://www.bolddesk.com/legal/terms-of-use) for licensing details.
