@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LRnWKN3b/GPRyDWSjfBd9X3HO90=
+		/3YT9eubdW5nW6dGZeO/g8hPpSI=
 		</data>
 		<key>Inter-Bold.ttf</key>
 		<data>
@@ -34,47 +34,59 @@
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		FKxqOaxc+u+P+S+Bf5kiwNLENPM=
+		HOyA4qBjQBWUTiJ+vf0x2uo3yME=
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		m4dXcdov9WRBazODXUkyvl3ZeGg=
+		Tb0tHJs/Kwo8wzUG/TXwB3ld25Q=
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		hZ30Oofss4ocNa+jm/uu5l5S/FA=
+		X45McbSWNsLyuPQMZEmPGqvn02E=
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		m4dXcdov9WRBazODXUkyvl3ZeGg=
+		Tb0tHJs/Kwo8wzUG/TXwB3ld25Q=
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		DydR6NjILjKf9Y4QkRkiYiBSxt8=
+		U7MJiLgbxUCQUxSJ+qjG1zeu3Eo=
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		FKxqOaxc+u+P+S+Bf5kiwNLENPM=
+		HOyA4qBjQBWUTiJ+vf0x2uo3yME=
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		TbW8BIz0VOKQJIIkp0kPhqOFCWw=
+		0PJ34M3TVA5ONalAXSka75dREP0=
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		oqGu41xkRRCONhw/6ym11lUriE8=
+		CCmAcNYlJlLqZYasDCeA0XZ3/tE=
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TbW8BIz0VOKQJIIkp0kPhqOFCWw=
+		0PJ34M3TVA5ONalAXSka75dREP0=
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		M+4QOZUVDjtt6rTFVGLpVW69bl8=
+		Q1LYsngDiczKLCBJTIXeYkfwN2k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		igkMpxY42qirKF/N5jaZ7RHVJ2o=
+		</data>
+		<key>PhoneNumberMetadata.json</key>
+		<data>
+		KMoXK3VSZLIZtAWK2cM12L/d7ZQ=
+		</data>
+		<key>PhoneNumberMetadata.xml</key>
+		<data>
+		04oDu1b7+oF46pRTEMw6wNSW0xw=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		SGFC2+8aUDQnedClauDOkmtIEZs=
 		</data>
 		<key>articleDetails.min.css</key>
 		<data>
@@ -174,70 +186,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iH926whcR7OZjY0W7gAm8B9pBawQmpI06QlLu+5TElU=
+			FY9UZbxBdh3VVZYhFKpYviynP7BxxqR3V6D/vhxgmZU=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dMkdsTOzk1WF025X1EU7J/6M3QADstRpNiZKme3RG6Y=
+			R4/g4Z28w7X/hL7Tv2FqNZZ4vRwXh5DOhZQb492bLj4=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KwaaXsss1hhi8VPsUeHZLdXB5P5cQgKhGXj2k06npXY=
+			AOqVtBSwJZujIH2fXuSnn2fjewquDRE6aB/0pHOUSYQ=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dMkdsTOzk1WF025X1EU7J/6M3QADstRpNiZKme3RG6Y=
+			R4/g4Z28w7X/hL7Tv2FqNZZ4vRwXh5DOhZQb492bLj4=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lNxKqetgBVdg3OsovVAyshbbiFlKsL+6+2yUx1fZZcw=
+			jK3BVvCmsVIXkHHTCrhJaWspwhv90Akq1DN+79MC3YI=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iH926whcR7OZjY0W7gAm8B9pBawQmpI06QlLu+5TElU=
+			FY9UZbxBdh3VVZYhFKpYviynP7BxxqR3V6D/vhxgmZU=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D+coekaBJ08l4/NbiFB9If3gWfLqV+CxcSQpDBdaYVY=
+			HZtEH0VlEKbf/mQzPF1jFI0BQgdH6I3YfVDDS2gKsOs=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eCYne8wC6GoofhfBeO9Itzf54sfxbwNpxI29PeRGQyc=
+			Y093hlzW05VXDBa+bnQZ6zUWlPuRnt5vHCQgwS0cyXw=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D+coekaBJ08l4/NbiFB9If3gWfLqV+CxcSQpDBdaYVY=
+			HZtEH0VlEKbf/mQzPF1jFI0BQgdH6I3YfVDDS2gKsOs=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PRgL5sSFwnyhdvZQVv04zj0bsP90ezeUB01vwdhsHSU=
+			k6SDeTBxrKXH7hOHosaTFlbLcsoOzlFDncTk0MaXoCc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -245,6 +257,27 @@
 			<key>hash2</key>
 			<data>
 			WKKb3M+OJH0rHXnMXpKU8hs7A4wyAIRpzCQJ3ZRGOSU=
+			</data>
+		</dict>
+		<key>PhoneNumberMetadata.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ajlAT0FqpFgztSngTv2Qxc/Yz2vEYAx4xJMtPsSCBmc=
+			</data>
+		</dict>
+		<key>PhoneNumberMetadata.xml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gjX+Vz4Jdwxs6iWzUepYZpmfFHBR6EyJc8B9+H4X+3M=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VhBA96UpUvddAtS2dYOC/0jFY9byXISgnxplX23GD/g=
 			</data>
 		</dict>
 		<key>articleDetails.min.css</key>
