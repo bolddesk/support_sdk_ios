@@ -26,7 +26,7 @@ The SDK is lightweight, supports theming to match your app’s branding, and gua
 
 | Platform     | Minimum OS Version | Language   | Version                  |
 | ------------ | ------------------ | ---------- | ------------------------ |
-| iOS          | 14.0+              | Swift UI   | 5.3                      |
+| iOS          | 15.0+              | Swift UI   | 5.3                      |
 
 To set up the SDK in BoldDesk, learn more on [How to Configure Mobile SDK in BoldDesk](https://support.bolddesk.com/kb/article/21786)
 
