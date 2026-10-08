@@ -2,9 +2,9 @@
 import PackageDescription
 
 let package = Package(
-    name: "bolddesk_support_sdk",
+    name: "BoldDeskSupportSDK",
     platforms: [
-        .iOS(.v14)
+        .iOS(.v15)
     ],
     products: [
         .library(
