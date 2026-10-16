@@ -100,12 +100,14 @@ public class ChatConfiguration {
   public var email: Swift::String?
   public var name: Swift::String?
   public var phoneNo: Swift::String?
+  public var requesterId: Swift::String?
   public var offlineSettings: BoldDeskSupportSDK::OfflineSettings?
   public var generalSettings: BoldDeskSupportSDK::GeneralSettingsForChat?
   public var workflowDetails: [Swift::String : Any]?
   public var conversationId: Swift::String?
   public var createTicketTitleText: Swift::String?
-  public init(isFromChatSDK: Swift::Bool, appKey: Swift::String, brandURL: Swift::String, email: Swift::String? = nil, name: Swift::String? = nil, phoneNo: Swift::String? = nil, offlineSettings: BoldDeskSupportSDK::OfflineSettings? = nil, generalSettings: BoldDeskSupportSDK::GeneralSettingsForChat? = nil, workflowDetails: [Swift::String : Any]? = nil, conversationId: Swift::String? = nil, createTicketTitleText: Swift::String? = nil)
+  public var ticketFields: [Swift::String : Any]?
+  public init(isFromChatSDK: Swift::Bool, appKey: Swift::String, brandURL: Swift::String, email: Swift::String? = nil, name: Swift::String? = nil, phoneNo: Swift::String? = nil, requesterId: Swift::String? = nil, offlineSettings: BoldDeskSupportSDK::OfflineSettings? = nil, generalSettings: BoldDeskSupportSDK::GeneralSettingsForChat? = nil, workflowDetails: [Swift::String : Any]? = nil, conversationId: Swift::String? = nil, createTicketTitleText: Swift::String? = nil, ticketFields: [Swift::String : Any]? = nil)
   @objc deinit
 }
 public enum PhoneNumberError : Swift::Error, Swift::Equatable, Swift::Sendable {
